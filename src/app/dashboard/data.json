@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "Nombre Item": "Telas viscosa",
+    "Cantidad": "157",
+    "Unidad": "Paquetes",
+    "Localización": "Almacén 4",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 2,
+    "Nombre Item": "Pegamento textil",
+    "Cantidad": "42",
+    "Unidad": "Paquetes",
+    "Localización": "Almacén 1",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 3,
+    "Nombre Item": "Hilos de seda",
+    "Cantidad": "7",
+    "Unidad": "Paquetes",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 4,
+    "Nombre Item": "Cinta elástica 5cm",
+    "Cantidad": "112",
+    "Unidad": "Conos",
+    "Localización": "Almacén 4",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 5,
+    "Nombre Item": "Telas lino natural fina",
+    "Cantidad": "229",
+    "Unidad": "Metros",
+    "Localización": "Almacén 3",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 6,
+    "Nombre Item": "Botones plásticos blancos",
+    "Cantidad": "229",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 5",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 7,
+    "Nombre Item": "Telas lino estampada",
+    "Cantidad": "78",
+    "Unidad": "Rollos",
+    "Localización": "Almacén 5",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 8,
+    "Nombre Item": "Hilos multicolor",
+    "Cantidad": "168",
+    "Unidad": "Packs",
+    "Localización": "Almacén 1",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 9,
+    "Nombre Item": "Hilos de algodón blanco",
+    "Cantidad": "167",
+    "Unidad": "Packs",
+    "Localización": "Almacén 5",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 10,
+    "Nombre Item": "Telas seda natural",
+    "Cantidad": "228",
+    "Unidad": "Conos",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 11,
+    "Nombre Item": "Cinta elástica 4cm",
+    "Cantidad": "16",
+    "Unidad": "Conos",
+    "Localización": "Almacén 4",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 12,
+    "Nombre Item": "Tiza de sastre blanca",
+    "Cantidad": "117",
+    "Unidad": "Packs",
+    "Localización": "Almacén 1",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 13,
+    "Nombre Item": "Tijeras de sastre",
+    "Cantidad": "128",
+    "Unidad": "Conos",
+    "Localización": "Almacén 5",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 14,
+    "Nombre Item": "Cinta de algodón",
+    "Cantidad": "116",
+    "Unidad": "Conos",
+    "Localización": "Almacén 3",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 15,
+    "Nombre Item": "Telas lino gris claro",
+    "Cantidad": "102",
+    "Unidad": "Paquetes",
+    "Localización": "Almacén 2",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 16,
+    "Nombre Item": "Cinta bies negra",
+    "Cantidad": "82",
+    "Unidad": "Conos",
+    "Localización": "Almacén 1",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 17,
+    "Nombre Item": "Telas viscosa",
+    "Cantidad": "268",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 4",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 18,
+    "Nombre Item": "Apliques bordados",
+    "Cantidad": "16",
+    "Unidad": "Metros",
+    "Localización": "Almacén 5",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 19,
+    "Nombre Item": "Telas lino negra",
+    "Cantidad": "263",
+    "Unidad": "Packs",
+    "Localización": "Almacén 2",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 20,
+    "Nombre Item": "Hilos de algodón blanco",
+    "Cantidad": "204",
+    "Unidad": "Conos",
+    "Localización": "Almacén 2",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 21,
+    "Nombre Item": "Cinta bies blanca",
+    "Cantidad": "58",
+    "Unidad": "Conos",
+    "Localización": "Almacén 1",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 22,
+    "Nombre Item": "Cinta bies roja",
+    "Cantidad": "104",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 3",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 23,
+    "Nombre Item": "Telas lino natural fina",
+    "Cantidad": "17",
+    "Unidad": "Packs",
+    "Localización": "Almacén 3",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 24,
+    "Nombre Item": "Cinta métrica",
+    "Cantidad": "292",
+    "Unidad": "Conos",
+    "Localización": "Almacén 3",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 25,
+    "Nombre Item": "Telas lino natural gruesa",
+    "Cantidad": "139",
+    "Unidad": "Conos",
+    "Localización": "Almacén 3",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 26,
+    "Nombre Item": "Cinta elástica 2cm",
+    "Cantidad": "260",
+    "Unidad": "Metros",
+    "Localización": "Almacén 4",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 27,
+    "Nombre Item": "Pegamento rápido",
+    "Cantidad": "140",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 2",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 28,
+    "Nombre Item": "Telas lino crema",
+    "Cantidad": "104",
+    "Unidad": "Packs",
+    "Localización": "Almacén 5",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 29,
+    "Nombre Item": "Cinta decorativa plateada",
+    "Cantidad": "58",
+    "Unidad": "Metros",
+    "Localización": "Almacén 3",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 30,
+    "Nombre Item": "Telas lino verde",
+    "Cantidad": "258",
+    "Unidad": "Packs",
+    "Localización": "Almacén 2",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 31,
+    "Nombre Item": "Telas lino gris",
+    "Cantidad": "5",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 4",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 32,
+    "Nombre Item": "Cinta elástica 4cm",
+    "Cantidad": "136",
+    "Unidad": "Paquetes",
+    "Localización": "Almacén 5",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 33,
+    "Nombre Item": "Broches presión",
+    "Cantidad": "184",
+    "Unidad": "Metros",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 34,
+    "Nombre Item": "Telas algodón azul marino",
+    "Cantidad": "271",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 35,
+    "Nombre Item": "Hilos de algodón blanco",
+    "Cantidad": "74",
+    "Unidad": "Metros",
+    "Localización": "Almacén 4",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 36,
+    "Nombre Item": "Cierres metálicos 20cm",
+    "Cantidad": "263",
+    "Unidad": "Metros",
+    "Localización": "Almacén 4",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 37,
+    "Nombre Item": "Botones dorados",
+    "Cantidad": "91",
+    "Unidad": "Rollos",
+    "Localización": "Almacén 2",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 38,
+    "Nombre Item": "Botones transparentes",
+    "Cantidad": "135",
+    "Unidad": "Conos",
+    "Localización": "Almacén 5",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 39,
+    "Nombre Item": "Telas lino crema",
+    "Cantidad": "83",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 3",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 40,
+    "Nombre Item": "Telas lino rojo",
+    "Cantidad": "178",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 5",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 41,
+    "Nombre Item": "Telas jersey",
+    "Cantidad": "219",
+    "Unidad": "Cajas",
+    "Localización": "Almacén 5",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 42,
+    "Nombre Item": "Hilos de poliéster blanco",
+    "Cantidad": "120",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 3",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 43,
+    "Nombre Item": "Velcro blanco",
+    "Cantidad": "150",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 2",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 44,
+    "Nombre Item": "Telas lino crema",
+    "Cantidad": "183",
+    "Unidad": "Paquetes",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 45,
+    "Nombre Item": "Cinta satinada azul",
+    "Cantidad": "141",
+    "Unidad": "Rollos",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 46,
+    "Nombre Item": "Bobinas plásticas",
+    "Cantidad": "131",
+    "Unidad": "Cajas",
+    "Localización": "Almacén 4",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 47,
+    "Nombre Item": "Telas lino blanco",
+    "Cantidad": "140",
+    "Unidad": "Conos",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 48,
+    "Nombre Item": "Cinta doble cara",
+    "Cantidad": "268",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 3",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 49,
+    "Nombre Item": "Cinta grosgrain negra",
+    "Cantidad": "211",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 5",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 50,
+    "Nombre Item": "Telas lino beige claro",
+    "Cantidad": "294",
+    "Unidad": "Packs",
+    "Localización": "Almacén 4",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 51,
+    "Nombre Item": "Botones metálicos",
+    "Cantidad": "149",
+    "Unidad": "Conos",
+    "Localización": "Almacén 1",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 52,
+    "Nombre Item": "Agujas de mano",
+    "Cantidad": "37",
+    "Unidad": "Metros",
+    "Localización": "Almacén 5",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 53,
+    "Nombre Item": "Botones plásticos blancos",
+    "Cantidad": "154",
+    "Unidad": "Rollos",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 54,
+    "Nombre Item": "Retazos de tela",
+    "Cantidad": "271",
+    "Unidad": "Paquetes",
+    "Localización": "Almacén 5",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 55,
+    "Nombre Item": "Cinta satinada azul",
+    "Cantidad": "274",
+    "Unidad": "Rollos",
+    "Localización": "Almacén 3",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 56,
+    "Nombre Item": "Hilos de poliéster blanco",
+    "Cantidad": "72",
+    "Unidad": "Packs",
+    "Localización": "Almacén 2",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 57,
+    "Nombre Item": "Telas canvas",
+    "Cantidad": "37",
+    "Unidad": "Packs",
+    "Localización": "Almacén 1",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 58,
+    "Nombre Item": "Telas polar gruesa",
+    "Cantidad": "30",
+    "Unidad": "Packs",
+    "Localización": "Almacén 5",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 59,
+    "Nombre Item": "Telas lino natural gruesa",
+    "Cantidad": "144",
+    "Unidad": "Metros",
+    "Localización": "Almacén 2",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 60,
+    "Nombre Item": "Telas lino natural fina",
+    "Cantidad": "279",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 3",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 61,
+    "Nombre Item": "Hilos de algodón blanco",
+    "Cantidad": "85",
+    "Unidad": "Packs",
+    "Localización": "Almacén 3",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 62,
+    "Nombre Item": "Cinta bies negra",
+    "Cantidad": "64",
+    "Unidad": "Cajas",
+    "Localización": "Almacén 4",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 63,
+    "Nombre Item": "Cinta decorativa dorada",
+    "Cantidad": "65",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 4",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 64,
+    "Nombre Item": "Telas polar",
+    "Cantidad": "179",
+    "Unidad": "Cajas",
+    "Localización": "Almacén 3",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 65,
+    "Nombre Item": "Velcro industrial",
+    "Cantidad": "147",
+    "Unidad": "Metros",
+    "Localización": "Almacén 1",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 66,
+    "Nombre Item": "Botones metálicos",
+    "Cantidad": "219",
+    "Unidad": "Cajas",
+    "Localización": "Almacén 4",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 67,
+    "Nombre Item": "Velcro negro",
+    "Cantidad": "152",
+    "Unidad": "Cajas",
+    "Localización": "Almacén 4",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 68,
+    "Nombre Item": "Telas lino beige",
+    "Cantidad": "198",
+    "Unidad": "Paquetes",
+    "Localización": "Almacén 2",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 69,
+    "Nombre Item": "Telas lino blanco",
+    "Cantidad": "176",
+    "Unidad": "Conos",
+    "Localización": "Almacén 4",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 70,
+    "Nombre Item": "Telas lino natural fina",
+    "Cantidad": "71",
+    "Unidad": "Metros",
+    "Localización": "Almacén 5",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 71,
+    "Nombre Item": "Cinta bies blanca",
+    "Cantidad": "250",
+    "Unidad": "Conos",
+    "Localización": "Almacén 3",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 72,
+    "Nombre Item": "Telas lino beige",
+    "Cantidad": "73",
+    "Unidad": "Rollos",
+    "Localización": "Almacén 3",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 73,
+    "Nombre Item": "Cinta grosgrain negra",
+    "Cantidad": "112",
+    "Unidad": "Packs",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 74,
+    "Nombre Item": "Cinta reflectiva",
+    "Cantidad": "153",
+    "Unidad": "Packs",
+    "Localización": "Almacén 4",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 75,
+    "Nombre Item": "Etiquetas tejidas",
+    "Cantidad": "192",
+    "Unidad": "Packs",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 76,
+    "Nombre Item": "Etiquetas tejidas",
+    "Cantidad": "157",
+    "Unidad": "Conos",
+    "Localización": "Almacén 5",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 77,
+    "Nombre Item": "Telas canvas",
+    "Cantidad": "29",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 3",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 78,
+    "Nombre Item": "Telas lino mostaza",
+    "Cantidad": "111",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 5",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 79,
+    "Nombre Item": "Cinta elástica 2cm",
+    "Cantidad": "112",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 4",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 80,
+    "Nombre Item": "Encaje negro",
+    "Cantidad": "100",
+    "Unidad": "Paquetes",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 81,
+    "Nombre Item": "Telas lino estampada",
+    "Cantidad": "24",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 3",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 82,
+    "Nombre Item": "Telas lino crema",
+    "Cantidad": "72",
+    "Unidad": "Conos",
+    "Localización": "Almacén 3",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 83,
+    "Nombre Item": "Botones de madera",
+    "Cantidad": "90",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 3",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 84,
+    "Nombre Item": "Telas polar",
+    "Cantidad": "7",
+    "Unidad": "Conos",
+    "Localización": "Almacén 5",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 85,
+    "Nombre Item": "Cinta decorativa plateada",
+    "Cantidad": "269",
+    "Unidad": "Metros",
+    "Localización": "Almacén 3",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 86,
+    "Nombre Item": "Telas lino gris oscuro",
+    "Cantidad": "15",
+    "Unidad": "Conos",
+    "Localización": "Almacén 2",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 87,
+    "Nombre Item": "Encaje negro",
+    "Cantidad": "47",
+    "Unidad": "Packs",
+    "Localización": "Almacén 1",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 88,
+    "Nombre Item": "Hilos de poliéster blanco",
+    "Cantidad": "209",
+    "Unidad": "Metros",
+    "Localización": "Almacén 2",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 89,
+    "Nombre Item": "Botones metálicos",
+    "Cantidad": "173",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 1",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 90,
+    "Nombre Item": "Cinta decorativa dorada",
+    "Cantidad": "107",
+    "Unidad": "Conos",
+    "Localización": "Almacén 1",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 91,
+    "Nombre Item": "Cinta satinada roja",
+    "Cantidad": "28",
+    "Unidad": "Rollos",
+    "Localización": "Almacén 4",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 92,
+    "Nombre Item": "Cinta satinada roja",
+    "Cantidad": "247",
+    "Unidad": "Bolsas",
+    "Localización": "Almacén 5",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 93,
+    "Nombre Item": "Telas viscosa",
+    "Cantidad": "247",
+    "Unidad": "Rollos",
+    "Localización": "Almacén 3",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 94,
+    "Nombre Item": "Telas lino gris claro",
+    "Cantidad": "215",
+    "Unidad": "Cajas",
+    "Localización": "Almacén 1",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 95,
+    "Nombre Item": "Telas polar",
+    "Cantidad": "246",
+    "Unidad": "Rollos",
+    "Localización": "Almacén 2",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 96,
+    "Nombre Item": "Hilos de poliéster negro",
+    "Cantidad": "11",
+    "Unidad": "Conos",
+    "Localización": "Almacén 3",
+    "Estado": "Excelente"
+  },
+  {
+    "id": 97,
+    "Nombre Item": "Telas polar gruesa",
+    "Cantidad": "105",
+    "Unidad": "Cajas",
+    "Localización": "Almacén 4",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 98,
+    "Nombre Item": "Telas jersey",
+    "Cantidad": "245",
+    "Unidad": "Cajas",
+    "Localización": "Almacén 4",
+    "Estado": "Bajo"
+  },
+  {
+    "id": 99,
+    "Nombre Item": "Telas polar",
+    "Cantidad": "254",
+    "Unidad": "Conos",
+    "Localización": "Almacén 4",
+    "Estado": "Bueno"
+  },
+  {
+    "id": 100,
+    "Nombre Item": "Cinta de algodón",
+    "Cantidad": "280",
+    "Unidad": "Unidades",
+    "Localización": "Almacén 5",
+    "Estado": "Excelente"
+  }
+]
