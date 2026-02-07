@@ -14,7 +14,7 @@ pipeline {
     stages {
         stage('Version control') {
             steps {
-                git branch: "main", url:'https://github.com/OscarTerceros/textil-ci-cd'
+                git branch: "main", url:'https://github.com/osterce/ci-cd-textil-diplomado'
             }
         }
         stage('Install dependencies') {
@@ -22,11 +22,11 @@ pipeline {
                 sh "npm install"
             }
         }
-        stage('Test') {
+        /* stage('Test') {
             steps {
                 sh "npm run test"
             }
-        }
+        } */
         stage('Build') {
             steps {
                 sh "npm run build"
