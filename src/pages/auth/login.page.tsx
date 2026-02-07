@@ -13,6 +13,7 @@ import {
   FormLabel,
   FormMessage,
 } from "@/components/ui/form"
+import { IconMail, IconLock } from "@tabler/icons-react"
 
 import { useAuthContext as useAuthActions } from "@/hooks/use-auth-context"
 import { toast } from "sonner"
@@ -48,23 +49,33 @@ const LoginPage = () => {
   }
 
   return (
-    <Card>
-      <CardHeader>
-        <CardTitle className="text-center">Inicio de sesión</CardTitle>
-        <CardDescription>Inicia sesión con tu correo electrónico y contraseña</CardDescription>
+    <Card className="border-0 shadow-none bg-transparent">
+      <CardHeader className="space-y-1 pb-6">
+        <CardTitle className="text-2xl font-bold text-center">Bienvenido</CardTitle>
+        <CardDescription className="text-center">
+          Ingresa tus credenciales para acceder al sistema
+        </CardDescription>
       </CardHeader>
       <CardContent>
         {/* Formulario de inicio de sesión */}
         <Form {...form}>
-          <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
+          <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-5">
             <FormField
               control={form.control}
               name="email"
               render={({ field }) => (
                 <FormItem>
-                  <FormLabel>Email</FormLabel>
+                  <FormLabel>Correo electrónico</FormLabel>
                   <FormControl>
-                    <Input type="email" placeholder="Ingresa tu correo electrónico" {...field} />
+                    <div className="relative">
+                      <IconMail className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
+                      <Input
+                        type="email"
+                        placeholder="tu@correo.com"
+                        className="pl-10"
+                        {...field}
+                      />
+                    </div>
                   </FormControl>
                   <FormMessage />
                 </FormItem>
@@ -77,7 +88,15 @@ const LoginPage = () => {
                 <FormItem>
                   <FormLabel>Contraseña</FormLabel>
                   <FormControl>
-                    <Input type="password" placeholder="Ingresa tu contraseña" {...field} />
+                    <div className="relative">
+                      <IconLock className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
+                      <Input
+                        type="password"
+                        placeholder="••••••••"
+                        className="pl-10"
+                        {...field}
+                      />
+                    </div>
                   </FormControl>
                   <FormMessage />
                 </FormItem>
@@ -85,8 +104,9 @@ const LoginPage = () => {
             />
             <Button
               type="submit"
-              className="w-full"
+              className="w-full mt-6"
               disabled={loading}
+              size="lg"
             >
               {loading ? "Iniciando sesión..." : "Iniciar sesión"}
             </Button>
