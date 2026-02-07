@@ -49,7 +49,7 @@ import {
 // toast removed (not used) to avoid unused-import lint warnings
 
 import { useIsMobile } from "@/hooks/use-mobile"
-import { Badge } from "@/components/ui/badge"
+
 import { Button } from "@/components/ui/button"
 // chart UI removed for simplified detail drawer
 import { Checkbox } from "@/components/ui/checkbox"
@@ -92,8 +92,6 @@ import {
 import {
   Tabs,
   TabsContent,
-  TabsList,
-  TabsTrigger,
 } from "@/components/ui/tabs"
 
 // The table accepts generic records and will build columns dynamically
@@ -179,7 +177,7 @@ export function DataTable({ data: initialData }: { data: Record<string, unknown>
     const first = data[0]
     const keys = Object.keys(first).filter((k) => k !== "id")
 
-  const cols: ColumnDef<Record<string, unknown>>[] = []
+    const cols: ColumnDef<Record<string, unknown>>[] = []
 
     // drag column
     cols.push({
@@ -330,7 +328,7 @@ export function DataTable({ data: initialData }: { data: Record<string, unknown>
             <SelectItem value="focus-documents">Documentos principales</SelectItem>
           </SelectContent>}
         </Select>
-          {/* <TabsList className="**:data-[slot=badge]:bg-muted-foreground/30 hidden **:data-[slot=badge]:size-5 **:data-[slot=badge]:rounded-full **:data-[slot=badge]:px-1 @4xl/main:flex">
+        {/* <TabsList className="**:data-[slot=badge]:bg-muted-foreground/30 hidden **:data-[slot=badge]:size-5 **:data-[slot=badge]:rounded-full **:data-[slot=badge]:px-1 @4xl/main:flex">
           <TabsTrigger value="outline">Esquema1</TabsTrigger>
           <TabsTrigger value="past-performance">
             Rendimiento pasado <Badge variant="secondary">3</Badge>
@@ -402,9 +400,9 @@ export function DataTable({ data: initialData }: { data: Record<string, unknown>
                           {header.isPlaceholder
                             ? null
                             : flexRender(
-                                header.column.columnDef.header,
-                                header.getContext()
-                              )}
+                              header.column.columnDef.header,
+                              header.getContext()
+                            )}
                         </TableHead>
                       )
                     })}
@@ -424,11 +422,11 @@ export function DataTable({ data: initialData }: { data: Record<string, unknown>
                 ) : (
                   <TableRow>
                     <TableCell
-                        colSpan={table.getAllColumns().length}
-                        className="h-24 text-center"
-                      >
-                        No hay resultados.
-                      </TableCell>
+                      colSpan={table.getAllColumns().length}
+                      className="h-24 text-center"
+                    >
+                      No hay resultados.
+                    </TableCell>
                   </TableRow>
                 )}
               </TableBody>
