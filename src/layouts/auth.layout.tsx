@@ -42,7 +42,7 @@ const AuthLayout = () => {
             </span>
           </div>
           <p className="text-muted-foreground text-sm text-center mt-2">
-            Sistema de Gestión de Postgrados UCB
+            Sistema de Gestión de Inventarios - Postgrado UCB
           </p>
         </div>
 
@@ -53,7 +53,7 @@ const AuthLayout = () => {
 
         {/* Footer */}
         <div className="mt-6 text-center text-xs text-muted-foreground">
-          <p>© 2026 Universidad Católica Boliviana. Todos los derechos reservados.</p>
+          <p>© 2026 Universidad Católica Boliviana - La Paz. Todos los derechos reservados.</p>
         </div>
       </div>
     </div>

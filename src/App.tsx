@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router"
+import { Route, Routes, Navigate } from "react-router"
 import RootLayout from "./layouts/root.layout"
 import PublicLayout from "./layouts/public.layout"
 import AdminLayout from "./layouts/admin.layout"
@@ -22,10 +22,16 @@ const App = () => {
       <Routes>
         <Route element={<RootLayout />} >
 
+          {/* Redirect root to login */}
+          <Route
+            index
+            element={<Navigate to="/auth/login" replace />}
+          />
+
           {/* Public */}
           <Route element={<PublicLayout />} >
             <Route
-              index
+              path="home"
               element={<HomePage />}
             />
             <Route
@@ -38,7 +44,7 @@ const App = () => {
           <Route path="admin" element={<AdminLayout />} >
             <Route
               index
-              element={<DashboardPage/>}
+              element={<DashboardPage />}
             />
             <Route
               path="inventory"
