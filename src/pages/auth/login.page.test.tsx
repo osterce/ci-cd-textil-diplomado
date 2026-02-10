@@ -52,7 +52,7 @@ describe('LoginPage', () => {
           <LoginPage />
         </BrowserRouter>
       );
-      expect(screen.getByText('Bienvenidossss')).toBeInTheDocument();
+      expect(screen.getByText('Bienvenido')).toBeInTheDocument();
     });
 
     it('should render the description text', () => {
