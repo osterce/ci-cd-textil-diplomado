@@ -1,7 +1,7 @@
 export const routeTitles: Record<string, string> = {
   "/admin": "Dashboard",
   "/admin/products": "Productos",
-  "/admin/inventory": "Inventarios",
+  "/admin/inventory": "Inventarios prueba",
   "/admin/production": "Producción",
   "/admin/purchases": "Compras",
   "/admin/sales": "Ventas",
