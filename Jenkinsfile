@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = 'mi-react-app'
+        DOCKER_IMAGE = 'ci-cd-textil-diplomado'
         DOCKER_TAG = 'latest'
-        CONTAINER_NAME = 'react-container'
+        CONTAINER_NAME = 'react-container-diplomado'
     }
 
     tools {
